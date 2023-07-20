@@ -17,6 +17,6 @@ public class Exercicio4 {
         System.out.println("Digite a nota da prova 3: ");
         prova3 = entrada.nextInt();
         System.out.println("A media do Aluno é de: ");
-        System.out.println((prova1*2) + (prova2*3) + (prova3*5) / 10);
+        System.out.println(((prova1*2) + (prova2*3) + (prova3*5)) / 10);
     }
 }
